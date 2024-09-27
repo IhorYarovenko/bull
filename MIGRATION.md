@@ -37,3 +37,4 @@ where in 2.x the first argument was a job instance for local jobs. Now both loca
 jobId as first argument to the event handler. If the job instance is needed it can be easily retrieved with
 ```Job.fromId()```.
 
+
